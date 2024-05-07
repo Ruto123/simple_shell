@@ -1,5 +1,4 @@
 # 0x16. C - Simple Shell
-## <p align="center">![alt text](https://github.com/Dikachis/alx-low_level_programming/blob/master/image/shell.jpg?raw=true)</p>
 
 ## Table of Content
 * [Description](#Description)
@@ -159,11 +158,10 @@ drwxr-xr-x 14 vagrant vagrant  4096 Jul 17 22:37 ..
 ## Bugs
 At this time, there are no known bugs.
 
-## Authors
-[ONYEDIKACHI OKPARA](https://github.com/Dikachis) || [Ezugo Ojukwu](https://github.com/zugo-m)
+
 
 ## License
 Simple_shell is open source and free to download and use without permission.
 
 
-[Alx](https://alx-intranet.hbtn.io/projects/235) | [Firefox Pocket](https://getpocket.com/my-list?src=navbar)
+
